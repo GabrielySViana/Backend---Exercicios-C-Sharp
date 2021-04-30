@@ -1,0 +1,36 @@
+programa {
+
+    inteiro idade
+    inteiro meses
+    inteiro dias
+    inteiro horas
+    inteiro minutos
+    inteiro somados
+
+    funcao inicio() {
+
+        escreval("Qual é a sua idade?")
+        leia (idade)
+
+        meses = (idade * 12)
+        dias = (idade * 365)
+        horas = (idade * 87600)
+        minutos = (idade * 525600)
+
+        somados = (meses + dias + horas + minutos)
+
+        escreval ("Sua idade em meses é: " , meses)
+
+        escreval ("Sua idade em dias é: " , dias)
+
+        escreval ("Sua idade em horas é: " , horas)
+
+        escreval ("Sua idade em minutos é: " , minutos)
+
+
+        escreval ("Somados a sua idade em meses, dias, horas e minutos fica: " , somados)
+
+        escreval ("Parabéns pelo seu tempo de vida!!! ;)")
+
+    }
+}

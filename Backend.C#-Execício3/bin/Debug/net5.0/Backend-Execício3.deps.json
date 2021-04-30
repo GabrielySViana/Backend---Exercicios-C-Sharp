@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Backend-Execício3/1.0.0": {
+        "runtime": {
+          "Backend-Execício3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend-Execício3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

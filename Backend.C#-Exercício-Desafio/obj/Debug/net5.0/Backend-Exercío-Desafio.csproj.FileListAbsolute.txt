@@ -1,0 +1,16 @@
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\Backend-Exercío-Desafio.exe
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\Backend-Exercío-Desafio.deps.json
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\Backend-Exercío-Desafio.runtimeconfig.json
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\Backend-Exercío-Desafio.runtimeconfig.dev.json
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\Backend-Exercío-Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\ref\Backend-Exercío-Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\bin\Debug\net5.0\Backend-Exercío-Desafio.pdb
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.csprojAssemblyReference.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.AssemblyInfoInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.AssemblyInfo.cs
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\ref\Backend-Exercío-Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.pdb
+C:\Users\Gabs\OneDrive\Documentos\Backend-Exercío-Desafio\obj\Debug\net5.0\Backend-Exercío-Desafio.genruntimeconfig.cache

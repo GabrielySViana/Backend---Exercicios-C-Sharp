@@ -1,0 +1,33 @@
+programa {
+    inteiro idade
+
+    funcao inicio() {
+        
+        escreval("E aí, nadador! Qual a sua idade? :D")
+        leia (idade)
+
+        se (idade >=5 E idade <=7)
+        {
+            escreval ("A sua categoria é:" , "Infantil A")
+        }
+
+        se (idade >=8 E idade <=10)
+        {
+            escreval ("A sua categoria é: " , "Infantil B")
+        }
+
+        se (idade >=11 E idade <=13)
+        {
+            escreval ("A sua categoria é: " , "Juvenil A")
+        }
+
+        se (idade >=14 E idade <=17)
+        {
+            escreval ("A sua categoria é: " , "Juvenil B")
+        }
+
+        senao {
+            escreval ("A sua categoria é: " , "Sênior")
+        }
+    }
+}

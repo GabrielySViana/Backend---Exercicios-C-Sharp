@@ -1,0 +1,24 @@
+programa {
+
+    inteiro nascimento
+    inteiro ano
+    inteiro idade 
+    inteiro idade_semanas
+
+    funcao inicio() {
+        
+        escreval("Em que ano você nasceu?")
+        leia (nascimento)
+
+        ano = Calendário.Ano_atual
+
+        idade = (ano - nascimento)
+        idade_semanas = (idade * 52)
+
+        escreval ("A sua idade no ano de " + ano + " será: " + idade + " anos")
+
+        escreval ("A sua idade em semanas é: " , idade_semanas)
+
+        escreval ("Estes são seus anos e semanas vividos, felicitações! :)")
+    }
+}

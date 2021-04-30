@@ -1,0 +1,23 @@
+programa {
+
+    real salario
+    real sal_reajustado
+
+    funcao inicio() {
+    
+        escreval("Qual o seu salário atual?")
+
+        leia (salario)
+
+        sal_reajustado = (salario) + (salario * 30/100)
+
+        se (salario<= 500)
+        {
+            escreval ("Párabéns! " , "Seu salário foi aumentado em 30%. " , "A partir de agora você receberá: " , sal_reajustado.texto("C") , " reais")
+        }
+
+        senao {
+            escreval ("Seu salário permanecerá o mesmo.")
+        }
+    }
+}
